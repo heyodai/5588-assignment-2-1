@@ -1,16 +1,4 @@
-# CS5588: Assignment 2.1
-
-## Model selection
-
-## Dataset
-
-## Results
-
-## How to Reproduce
-
-## Relevance to Project
-
-## Instructions from Canvas
+# CS5588 - Assignment 2.1
 
 - **Deadline**: September 11 (Wednesday)  
 - **Submission Type:** Individual
