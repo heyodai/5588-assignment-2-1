@@ -1,5 +1,9 @@
 # CS5588 - Assignment 2.1
 
+Final report is in `submission.md`. Code is in `assignment.ipynb`.
+
+## Instructions from Canvas
+
 - **Deadline**: September 11 (Wednesday)  
 - **Submission Type:** Individual
 - **Submission:**
